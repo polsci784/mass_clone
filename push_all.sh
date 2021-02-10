@@ -17,7 +17,7 @@ else
 			cd $f
 			git add -A
 			git commit -m "Graded ${date} ${time}"
-			git push origin master
+			git push origin main
 			echo $f
 			cd ..
 		done
