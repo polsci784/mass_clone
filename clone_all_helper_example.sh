@@ -17,7 +17,7 @@ else
 	assignment=$1
 
 	#edit these variables to your defaults
-	organization="polsci784-2021"
+	organization="polisci784-2023"
 	username="michelledion"
 	protocol="ssh"
 
